@@ -1,0 +1,19 @@
+1.Unit tests to do
+ * authentication (8)
+   . génération du token (4)
+     - vérifier que le jeton est généré avec succès   
+     - vérifier que le jeton contient les infos nécessaires (emetteur, audience, revendications)
+     - vérifier que la signature du jeton est correcte
+     - vérifier que le jeton expire au temps imparti
+   . validation du token (4)
+     - vérifier que le jeton est validé avec succès
+     - vérifier que le jeton est invalide si la signature est incorrecte
+     - vérifier que le jeton est invalide si la signature est incorretcte
+     - vérifier que le jeton est invalide avec des révendications incorrectes
+
+2.Integration tests to do
+ * authentification (4)
+   . vérifier qu'un utilisateur peut se connecter avec succès.
+   . vérifier qu'un utilisateur ne peut pas se connecter avec des informations d'identification incorrectes.
+   . vérifier qu'un utilisateur est redirigé vers la page de connexion s'il n'est pas authentifié.
+   . vérifier qu'un utilisateur est autorisé à accéder aux ressources protégées après s'être authentifié.
