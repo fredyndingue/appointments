@@ -1,0 +1,5 @@
+* JWT authentication and authorization with .Net 8
+  https://markjames.dev/blog/jwt-authorization-asp-net-core (*****)
+  https://ravindradevrani.medium.com/net-7-jwt-authentication-and-role-based-authorization-5e5e56979b67
+  https://www.c-sharpcorner.com/article/securing-asp-net-core-web-api-with-jwt-authentication-and-role-based-authorizati/
+  https://medium.com/@paulojunior9395/role-based-authentication-and-authorization-with-jwt-net-core-6dfaa96ff816
