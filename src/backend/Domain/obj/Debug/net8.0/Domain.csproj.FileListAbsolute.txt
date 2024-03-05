@@ -1,0 +1,12 @@
+D:\Projets\Learning\appointments\src\backend\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Projets\Learning\appointments\src\backend\Domain\bin\Debug\net8.0\Domain.dll
+D:\Projets\Learning\appointments\src\backend\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Projets\Learning\appointments\src\backend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\Learning\appointments\src\backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Projets\Learning\appointments\src\backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Projets\Learning\appointments\src\backend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Projets\Learning\appointments\src\backend\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Projets\Learning\appointments\src\backend\Domain\obj\Debug\net8.0\Domain.dll
+D:\Projets\Learning\appointments\src\backend\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Projets\Learning\appointments\src\backend\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Projets\Learning\appointments\src\backend\Domain\obj\Debug\net8.0\ref\Domain.dll

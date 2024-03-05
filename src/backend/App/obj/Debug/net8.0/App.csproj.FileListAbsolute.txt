@@ -1,0 +1,16 @@
+D:\Projets\Learning\appointments\src\backend\App\bin\Debug\net8.0\App.deps.json
+D:\Projets\Learning\appointments\src\backend\App\bin\Debug\net8.0\App.dll
+D:\Projets\Learning\appointments\src\backend\App\bin\Debug\net8.0\App.pdb
+D:\Projets\Learning\appointments\src\backend\App\bin\Debug\net8.0\Domain.dll
+D:\Projets\Learning\appointments\src\backend\App\bin\Debug\net8.0\Domain.pdb
+D:\Projets\Learning\appointments\src\backend\App\obj\Debug\net8.0\App.csproj.AssemblyReference.cache
+D:\Projets\Learning\appointments\src\backend\App\obj\Debug\net8.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\Learning\appointments\src\backend\App\obj\Debug\net8.0\App.AssemblyInfoInputs.cache
+D:\Projets\Learning\appointments\src\backend\App\obj\Debug\net8.0\App.AssemblyInfo.cs
+D:\Projets\Learning\appointments\src\backend\App\obj\Debug\net8.0\App.csproj.CoreCompileInputs.cache
+D:\Projets\Learning\appointments\src\backend\App\obj\Debug\net8.0\App.sourcelink.json
+D:\Projets\Learning\appointments\src\backend\App\obj\Debug\net8.0\App.csproj.CopyComplete
+D:\Projets\Learning\appointments\src\backend\App\obj\Debug\net8.0\App.dll
+D:\Projets\Learning\appointments\src\backend\App\obj\Debug\net8.0\refint\App.dll
+D:\Projets\Learning\appointments\src\backend\App\obj\Debug\net8.0\App.pdb
+D:\Projets\Learning\appointments\src\backend\App\obj\Debug\net8.0\ref\App.dll
