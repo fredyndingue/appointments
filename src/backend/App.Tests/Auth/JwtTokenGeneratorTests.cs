@@ -2,6 +2,7 @@
 using Appointments.App.Services;
 using Appointments.Domain.Entities;
 using Moq;
+using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 
 namespace Appointments.App.Tests.Auth

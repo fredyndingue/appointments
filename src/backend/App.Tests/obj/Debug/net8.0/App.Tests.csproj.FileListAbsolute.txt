@@ -108,3 +108,8 @@ D:\Projets\Learning\appointments\src\backend\App.Tests\obj\Debug\net8.0\refint\A
 D:\Projets\Learning\appointments\src\backend\App.Tests\obj\Debug\net8.0\App.Tests.pdb
 D:\Projets\Learning\appointments\src\backend\App.Tests\obj\Debug\net8.0\App.Tests.genruntimeconfig.cache
 D:\Projets\Learning\appointments\src\backend\App.Tests\obj\Debug\net8.0\ref\App.Tests.dll
+D:\Projets\Learning\appointments\src\backend\App.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projets\Learning\appointments\src\backend\App.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projets\Learning\appointments\src\backend\App.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projets\Learning\appointments\src\backend\App.Tests\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projets\Learning\appointments\src\backend\App.Tests\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
