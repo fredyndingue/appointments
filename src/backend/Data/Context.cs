@@ -1,5 +1,6 @@
 ﻿using Appointments.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
 namespace Apointments.Data
 {
@@ -13,7 +14,7 @@ namespace Apointments.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<User>()
+            modelBuilder.Entity<User>().ToTable("Appoint_T_User")
                 .Property(u => u.Roles)
                 .HasConversion(
                     u => string.Join(',', u),
