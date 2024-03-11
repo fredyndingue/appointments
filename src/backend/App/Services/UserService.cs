@@ -68,9 +68,15 @@ namespace Appointments.App.Services
             return user;
         }
 
-        public Task<User> SignUp(User signupUser)
+        public async Task<User> SignUp(User signupUser)
         {
-            throw new NotImplementedException();
+            // Add user to DB
+
+            signupUser.Password = Argon2.Hash(signupUser.Password);
+            _dbContext.Users.Add(signupUser);
+            await _dbContext.SaveChangesAsync();
+
+            return signupUser;
         }
     }
 }
