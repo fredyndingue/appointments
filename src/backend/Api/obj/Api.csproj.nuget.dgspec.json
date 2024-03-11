@@ -122,6 +122,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "D:\\Projets\\Learning\\appointments\\src\\backend\\Data\\Data.csproj": {
+                "projectPath": "D:\\Projets\\Learning\\appointments\\src\\backend\\Data\\Data.csproj"
+              },
               "D:\\Projets\\Learning\\appointments\\src\\backend\\Domain\\Domain.csproj": {
                 "projectPath": "D:\\Projets\\Learning\\appointments\\src\\backend\\Domain\\Domain.csproj"
               }
