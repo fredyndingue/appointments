@@ -10,5 +10,13 @@
         public bool IsActive { get; set; }
         public string? Token { get; set; }
 
+        public User(string name, String email, string password, List<string>? roles)
+        {
+            Name = name;
+            Email = email;
+            Password = password;
+            Roles = roles;
+        }
+
     }
 }
